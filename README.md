@@ -11,7 +11,7 @@
     <img src="https://img.shields.io/badge/LinkedIn-Dylan%20Cabahug--Almonte-blue?logo=linkedin&logoColor=white" />
   </a>
   <a href="https://github.com/dylapi">
-    <img src="https://img.shields.io/badge/GitHub-dylapi-black?logo=github" />
+    <img src="https://img.shields.io/badge/GitHub-dylan--almonte-black?logo=github" />
   </a>
   <a href="https://maps.google.com/?q=Carnegie+Mellon+University">
     <img src="https://img.shields.io/badge/Location-Pittsburgh%2C%20PA-orange?logo=google-maps&logoColor=white" />
@@ -102,12 +102,7 @@ A PyTorch-like mini framework built from scratch featuring:
 
 ## 📊 GitHub Stats
 
-<p align="center">
-  <img height="180" src="https://github-readme-stats.vercel.app/api?username=dylan-almonte&show_icons=true&theme=tokyonight&hide_border=true&count_private=true" />
-  <img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dylan-almonte&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
-
----
+[![GitHub Streak](https://streak-stats.demolab.com?user=dylan-almonte&theme=github-dark-blue&hide_border=true)](https://git.io/streak-stats)
 
 ## 🎯 What I'm Working On
 
